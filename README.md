@@ -1,5 +1,5 @@
 # Termostato Ruidos
-Códigos para correção de ruído em Termostato, proveniente de um fonte.
+Códigos para correção de ruído em Termostato, proveniente de uma fonte.
 Com aplicação em Pesquisa Científica realizada na universidade UNIFESP.
 O Código final, apesar de necessitar de interações do usuário, teve melhor comportamento para finalidade em Pesquisa Científica.
 
