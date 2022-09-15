@@ -19,4 +19,4 @@ https://github.com/karlward/DataStream
 
 https://github.com/karlward/Filter
 
-<img src="https://www.wizcase.com/wp-content/uploads/2020/10/ArduinoLogo.png" width="50" height="60"/>
+<img src="https://www.wizcase.com/wp-content/uploads/2020/10/ArduinoLogo.png" width="60" height="50"/>
